@@ -1,6 +1,6 @@
 # Awesome-Real-Time-Customer-Data-Platform-CDP
 
-# Top Scripting IDE & Automation Ecosystem
+## Top Scripting IDE & Automation Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on AI-Assisted Scripting, Terminal-Native Agents & Self-Hosted Visual Automation*  
