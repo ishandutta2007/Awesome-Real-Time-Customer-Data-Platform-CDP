@@ -2,7 +2,7 @@
 
 # Awesome-Real-Time-Customer-Data-Platform-CDP
 
-# Top Real-Time Customer Data Platform (CDP) Ecosystem
+## Top Real-Time Customer Data Platform (CDP) Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Warehouse-Native Data Ownership, Event Collection & Reverse ETL Activation*  
