@@ -81,7 +81,7 @@ Open-source and self-hosted Customer Data Platforms give engineering teams **com
 
 ### ⭐ Open-Source Comparison & Ranking
 
-*Sorted in descending order by GitHub Stars_Count.*
+*Sorted in descending order by GitHub_Stars_Count.*
 
 | 🌟 Open-Source Repository | ⭐ GitHub_Stars | 📜 License | 🛠️ Primary Role in CDP Architecture |
 | :--- | :--- | :--- | :--- |
