@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Real-Time-Customer-Data-Platform-CDP/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Real-Time-Customer-Data-Platform-CDP?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Real-Time-Customer-Data-Platform-CDP/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Real-Time-Customer-Data-Platform-CDP?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Real-Time-Customer-Data-Platform-CDP/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Real-Time-Customer-Data-Platform-CDP?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Real-Time-Customer-Data-Platform-CDP/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Real-Time-Customer-Data-Platform-CDP?style=flat-square" alt="Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Real-Time-Customer-Data-Platform-CDP/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
@@ -81,77 +81,77 @@ Open-source and self-hosted Customer Data Platforms give engineering teams **com
 
 ### ⭐ Open-Source Comparison & Ranking
 
-*Sorted in descending order by GitHub Star Count.*
+*Sorted in descending order by GitHub Stars_Count.*
 
-| 🌟 Open-Source Repository | ⭐ GitHub Stars | 📜 License | 🛠️ Primary Role in CDP Architecture |
+| 🌟 Open-Source Repository | ⭐ GitHub_Stars | 📜 License | 🛠️ Primary Role in CDP Architecture |
 | :--- | :--- | :--- | :--- |
-| [**PostHog**](https://github.com/PostHog/posthog) | [![GitHub stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers) | MIT / PostHog Array | Full-stack Product OS, event collection, session replay, user cohorting & warehouse data sync |
-| [**Snowplow**](https://github.com/snowplow/snowplow) | [![GitHub stars](https://img.shields.io/github/stars/snowplow/snowplow?style=social&color=white)](https://github.com/snowplow/snowplow/stargazers) | Snowplow Limited Use (SLUL) / Apache 2.0 | Enterprise-grade behavioral event ingestion, real-time schema validation & data lake loading |
-| [**Jitsu**](https://github.com/jitsucom/jitsu) | [![GitHub stars](https://img.shields.io/github/stars/jitsucom/jitsu?style=social&color=white)](https://github.com/jitsucom/jitsu/stargazers) | MIT | High-throughput, MIT-licensed event collection and real-time streaming to ClickHouse & warehouses |
-| [**RudderStack Server**](https://github.com/rudderlabs/rudder-server) | [![GitHub stars](https://img.shields.io/github/stars/rudderlabs/rudder-server?style=social&color=white)](https://github.com/rudderlabs/rudder-server/stargazers) | AGPLv3 / Elastic 2.0 | Warehouse-native Customer Data Platform, 100% Segment API compatibility & 200+ integrations |
-| [**Multiwoven**](https://github.com/Multiwoven/multiwoven) | [![GitHub stars](https://img.shields.io/github/stars/Multiwoven/multiwoven?style=social&color=white)](https://github.com/Multiwoven/multiwoven/stargazers) | AGPL-3.0 | Self-hosted Reverse ETL engine connecting cloud warehouses to CRMs, marketing & ad platforms |
-| [**Zingg**](https://github.com/zinggAI/zingg) | [![GitHub stars](https://img.shields.io/github/stars/zinggAI/zingg?style=social&color=white)](https://github.com/zinggAI/zingg/stargazers) | Apache 2.0 | ML-powered identity resolution, entity deduplication, and record linkage for customer 360 |
-| [**Grouparoo**](https://github.com/grouparoo/grouparoo) | [![GitHub stars](https://img.shields.io/github/stars/grouparoo/grouparoo?style=social&color=white)](https://github.com/grouparoo/grouparoo/stargazers) | MPL-2.0 | Reverse ETL data synchronization engine bridging SQL databases to marketing destinations |
-| [**Tracardi**](https://github.com/Tracardi/tracardi) | [![GitHub stars](https://img.shields.io/github/stars/Tracardi/tracardi?style=social&color=white)](https://github.com/Tracardi/tracardi/stargazers) | MIT | API-first, low-code Customer Data Platform with visual workflow orchestration & user profile stitching |
-| [**Apache Unomi**](https://github.com/apache/unomi) | [![GitHub stars](https://img.shields.io/github/stars/apache/unomi?style=social&color=white)](https://github.com/apache/unomi/stargazers) | Apache 2.0 | Official OASIS Customer Data Platform specification reference implementation & rule personalization |
-| [**Helio**](https://github.com/achref-soua/helio) | [![GitHub stars](https://img.shields.io/github/stars/achref-soua/helio?style=social&color=white)](https://github.com/achref-soua/helio/stargazers) | AGPL-3.0 | AI-native self-hostable growth platform with embedded CDP, multi-touch attribution & Segment tracking API |
-| [**LEO CDP**](https://github.com/trieu/leo-cdp-framework) | [![GitHub stars](https://img.shields.io/github/stars/trieu/leo-cdp-framework?style=social&color=white)](https://github.com/trieu/leo-cdp-framework/stargazers) | AGPL-3.0 | Developer framework for AI-driven customer lifetime value (CLV), RFM segmentation & Dagster pipelines |
+| [**PostHog**](https://github.com/PostHog/posthog) | [![GitHub_Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers) | MIT / PostHog Array | Full-stack Product OS, event collection, session replay, user cohorting & warehouse data sync |
+| [**Snowplow**](https://github.com/snowplow/snowplow) | [![GitHub_Stars](https://img.shields.io/github/stars/snowplow/snowplow?style=social&color=white)](https://github.com/snowplow/snowplow/stargazers) | Snowplow Limited Use (SLUL) / Apache 2.0 | Enterprise-grade behavioral event ingestion, real-time schema validation & data lake loading |
+| [**Jitsu**](https://github.com/jitsucom/jitsu) | [![GitHub_Stars](https://img.shields.io/github/stars/jitsucom/jitsu?style=social&color=white)](https://github.com/jitsucom/jitsu/stargazers) | MIT | High-throughput, MIT-licensed event collection and real-time streaming to ClickHouse & warehouses |
+| [**RudderStack Server**](https://github.com/rudderlabs/rudder-server) | [![GitHub_Stars](https://img.shields.io/github/stars/rudderlabs/rudder-server?style=social&color=white)](https://github.com/rudderlabs/rudder-server/stargazers) | AGPLv3 / Elastic 2.0 | Warehouse-native Customer Data Platform, 100% Segment API compatibility & 200+ integrations |
+| [**Multiwoven**](https://github.com/Multiwoven/multiwoven) | [![GitHub_Stars](https://img.shields.io/github/stars/Multiwoven/multiwoven?style=social&color=white)](https://github.com/Multiwoven/multiwoven/stargazers) | AGPL-3.0 | Self-hosted Reverse ETL engine connecting cloud warehouses to CRMs, marketing & ad platforms |
+| [**Zingg**](https://github.com/zinggAI/zingg) | [![GitHub_Stars](https://img.shields.io/github/stars/zinggAI/zingg?style=social&color=white)](https://github.com/zinggAI/zingg/stargazers) | Apache 2.0 | ML-powered identity resolution, entity deduplication, and record linkage for customer 360 |
+| [**Grouparoo**](https://github.com/grouparoo/grouparoo) | [![GitHub_Stars](https://img.shields.io/github/stars/grouparoo/grouparoo?style=social&color=white)](https://github.com/grouparoo/grouparoo/stargazers) | MPL-2.0 | Reverse ETL data synchronization engine bridging SQL databases to marketing destinations |
+| [**Tracardi**](https://github.com/Tracardi/tracardi) | [![GitHub_Stars](https://img.shields.io/github/stars/Tracardi/tracardi?style=social&color=white)](https://github.com/Tracardi/tracardi/stargazers) | MIT | API-first, low-code Customer Data Platform with visual workflow orchestration & user profile stitching |
+| [**Apache Unomi**](https://github.com/apache/unomi) | [![GitHub_Stars](https://img.shields.io/github/stars/apache/unomi?style=social&color=white)](https://github.com/apache/unomi/stargazers) | Apache 2.0 | Official OASIS Customer Data Platform specification reference implementation & rule personalization |
+| [**Helio**](https://github.com/achref-soua/helio) | [![GitHub_Stars](https://img.shields.io/github/stars/achref-soua/helio?style=social&color=white)](https://github.com/achref-soua/helio/stargazers) | AGPL-3.0 | AI-native self-hostable growth platform with embedded CDP, multi-touch attribution & Segment tracking API |
+| [**LEO CDP**](https://github.com/trieu/leo-cdp-framework) | [![GitHub_Stars](https://img.shields.io/github/stars/trieu/leo-cdp-framework?style=social&color=white)](https://github.com/trieu/leo-cdp-framework/stargazers) | AGPL-3.0 | Developer framework for AI-driven customer lifetime value (CLV), RFM segmentation & Dagster pipelines |
 
 ---
 
 ### 🔍 Deep-Dive: Open-Source Frameworks
 
-#### 1. [PostHog](https://github.com/PostHog/posthog) [![GitHub stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)
+#### 1. [PostHog](https://github.com/PostHog/posthog) [![GitHub_Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers)
 - **Architecture**: Comprehensive Product OS and open-source CDP built on ClickHouse and Kafka. Combines event tracking, feature flags, A/B testing, session recording, and customer data warehouse export.
 - **Key Capabilities**: Real-time event ingestion, user identity merging, automatic cohort computation, and webhooks to downstream apps.
 - **Best For**: Product and engineering teams seeking an all-in-one alternative to Segment, Mixpanel, and LaunchDarkly under their own control.
 
-#### 2. [Snowplow](https://github.com/snowplow/snowplow) [![GitHub stars](https://img.shields.io/github/stars/snowplow/snowplow?style=social&color=white)](https://github.com/snowplow/snowplow/stargazers)
+#### 2. [Snowplow](https://github.com/snowplow/snowplow) [![GitHub_Stars](https://img.shields.io/github/stars/snowplow/snowplow?style=social&color=white)](https://github.com/snowplow/snowplow/stargazers)
 - **Architecture**: Industrial-grade behavioral data pipeline. Captures rich, strongly-typed JSON/TSV event streams from web, mobile, server, and IoT devices.
 - **Key Capabilities**: Sub-second schema validation against Iglu schema registries, real-time data enrichment (GeoIP, IP lookup, user-agent parsing), and streaming loader to Snowflake, Databricks, and BigQuery.
 - **Best For**: Data engineering teams requiring bulletproof event validation and custom behavioral modeling within their data lakehouse.
 
-#### 3. [Jitsu](https://github.com/jitsucom/jitsu) [![GitHub stars](https://img.shields.io/github/stars/jitsucom/jitsu?style=social&color=white)](https://github.com/jitsucom/jitsu/stargazers)
+#### 3. [Jitsu](https://github.com/jitsucom/jitsu) [![GitHub_Stars](https://img.shields.io/github/stars/jitsucom/jitsu?style=social&color=white)](https://github.com/jitsucom/jitsu/stargazers)
 - **Architecture**: Ultralight, MIT-licensed event collection and ingestion pipeline written in Go and TypeScript.
 - **Key Capabilities**: 100% compatible with Segment SDKs; routes raw and transformed event streams directly to ClickHouse, Kafka, Postgres, and cloud warehouses. Built-in bulletproof failover and retry queues.
 - **Best For**: Engineering teams requiring a zero-friction, MIT-licensed event collector without vendor lock-in or sales negotiation.
 
-#### 4. [RudderStack Server](https://github.com/rudderlabs/rudder-server) [![GitHub stars](https://img.shields.io/github/stars/rudderlabs/rudder-server?style=social&color=white)](https://github.com/rudderlabs/rudder-server/stargazers)
+#### 4. [RudderStack Server](https://github.com/rudderlabs/rudder-server) [![GitHub_Stars](https://img.shields.io/github/stars/rudderlabs/rudder-server?style=social&color=white)](https://github.com/rudderlabs/rudder-server/stargazers)
 - **Architecture**: The leading warehouse-native Segment open-source alternative. Collects, enriches, and synchronizes clickstream events directly into cloud storage and downstream SaaS apps.
 - **Key Capabilities**: Segment API-compatible SDKs (swap JavaScript SDK endpoints seamlessly), JavaScript transformation functions, 200+ destination integrations, and native dbt models for identity resolution.
 - **Best For**: Data platform teams wanting warehouse-first ownership with effortless migration from Twilio Segment.
 
-#### 5. [Multiwoven](https://github.com/Multiwoven/multiwoven) [![GitHub stars](https://img.shields.io/github/stars/Multiwoven/multiwoven?style=social&color=white)](https://github.com/Multiwoven/multiwoven/stargazers)
+#### 5. [Multiwoven](https://github.com/Multiwoven/multiwoven) [![GitHub_Stars](https://img.shields.io/github/stars/Multiwoven/multiwoven?style=social&color=white)](https://github.com/Multiwoven/multiwoven/stargazers)
 - **Architecture**: Self-hosted Reverse ETL engine built with Ruby on Rails and modern data connectors.
 - **Key Capabilities**: Connects to Snowflake, Redshift, BigQuery, and Databricks; pushes modeled customer segments to Salesforce, HubSpot, Klaviyo, Braze, and Slack. Visual mapping interface and dbt model support.
 - **Best For**: Teams with an existing modeled data warehouse seeking an open-source, self-hosted alternative to Hightouch and Census.
 
-#### 6. [Zingg](https://github.com/zinggAI/zingg) [![GitHub stars](https://img.shields.io/github/stars/zinggAI/zingg?style=social&color=white)](https://github.com/zinggAI/zingg/stargazers)
+#### 6. [Zingg](https://github.com/zinggAI/zingg) [![GitHub_Stars](https://img.shields.io/github/stars/zinggAI/zingg?style=social&color=white)](https://github.com/zinggAI/zingg/stargazers)
 - **Architecture**: Distributed machine-learning entity resolution framework built on Apache Spark.
 - **Key Capabilities**: Solves the hardest problem in customer data platforms—probabilistic and fuzzy matching of duplicate user records, incomplete identity graphs, and merged customer accounts.
 - **Best For**: Enterprises needing scalable identity stitching across tens of millions of fragmented warehouse rows.
 
-#### 7. [Grouparoo](https://github.com/grouparoo/grouparoo) [![GitHub stars](https://img.shields.io/github/stars/grouparoo/grouparoo?style=social&color=white)](https://github.com/grouparoo/grouparoo/stargazers)
+#### 7. [Grouparoo](https://github.com/grouparoo/grouparoo) [![GitHub_Stars](https://img.shields.io/github/stars/grouparoo/grouparoo?style=social&color=white)](https://github.com/grouparoo/grouparoo/stargazers)
 - **Architecture**: Node.js-based open-source Reverse ETL tool (part of the Airbyte ecosystem).
 - **Key Capabilities**: Connects directly to relational databases (PostgreSQL, MySQL) and warehouses; defines user properties and calculates calculated cohorts for push synchronization.
 - **Best For**: Developers who prioritize Git-driven configuration (code-based models) for CRM syncing.
 
-#### 8. [Tracardi](https://github.com/Tracardi/tracardi) [![GitHub stars](https://img.shields.io/github/stars/Tracardi/tracardi?style=social&color=white)](https://github.com/Tracardi/tracardi/stargazers)
+#### 8. [Tracardi](https://github.com/Tracardi/tracardi) [![GitHub_Stars](https://img.shields.io/github/stars/Tracardi/tracardi?style=social&color=white)](https://github.com/Tracardi/tracardi/stargazers)
 - **Architecture**: API-first, composable CDP and workflow automation server backed by Elasticsearch.
 - **Key Capabilities**: Low-code visual workflow graph editor for incoming customer events, real-time profile merging, conditional decision trees, and event enrichment microservices.
 - **Best For**: Growth marketing and developer teams wanting real-time conditional marketing triggers and visual journey mapping.
 
-#### 9. [Apache Unomi](https://github.com/apache/unomi) [![GitHub stars](https://img.shields.io/github/stars/apache/unomi?style=social&color=white)](https://github.com/apache/unomi/stargazers)
+#### 9. [Apache Unomi](https://github.com/apache/unomi) [![GitHub_Stars](https://img.shields.io/github/stars/apache/unomi?style=social&color=white)](https://github.com/apache/unomi/stargazers)
 - **Architecture**: Java-based reference implementation of the OASIS Customer Data Platform standard.
 - **Key Capabilities**: Enterprise profile management, built-in consent and privacy compliance lifecycle tracking, real-time rule execution, and native Elasticsearch clustering.
 - **Best For**: Organizations prioritizing open industry standardization, strict consent management, and enterprise Java ecosystem alignment.
 
-#### 10. [Helio](https://github.com/achref-soua/helio) [![GitHub stars](https://img.shields.io/github/stars/achref-soua/helio?style=social&color=white)](https://github.com/achref-soua/helio/stargazers)
+#### 10. [Helio](https://github.com/achref-soua/helio) [![GitHub_Stars](https://img.shields.io/github/stars/achref-soua/helio?style=social&color=white)](https://github.com/achref-soua/helio/stargazers)
 - **Architecture**: Modern TypeScript-based AI-native growth platform featuring an embedded real-time CDP.
 - **Key Capabilities**: Segment/RudderStack HTTP tracking endpoint support, multi-touch attribution (first/last/linear), SQL data explorer, and bring-your-own-AI copilot (OpenAI, Anthropic, Ollama).
 - **Best For**: Startups and growth hackers seeking an integrated CDP with automated outbound campaigns and unlimited contacts.
 
-#### 11. [LEO CDP](https://github.com/trieu/leo-cdp-framework) [![GitHub stars](https://img.shields.io/github/stars/trieu/leo-cdp-framework?style=social&color=white)](https://github.com/trieu/leo-cdp-framework/stargazers)
+#### 11. [LEO CDP](https://github.com/trieu/leo-cdp-framework) [![GitHub_Stars](https://img.shields.io/github/stars/trieu/leo-cdp-framework?style=social&color=white)](https://github.com/trieu/leo-cdp-framework/stargazers)
 - **Architecture**: AI-first customer data platform framework designed for privacy-preserving, on-premises deployment.
 - **Key Capabilities**: Omnichannel collection (web, mobile, POS), RFM scoring, predictive customer lifetime value (CLV), churn prediction, and orchestration pipelines with Dagster.
 - **Best For**: Data teams requiring local AI-driven scoring models without SaaS data exfiltration.
@@ -226,7 +226,7 @@ Contributions are enthusiastically welcomed! To suggest a new tool or update exi
 3. 📝 Edit `README.md` keeping formatting consistent:
    - Provide verified starting prices (avoid generic "contact sales").
    - Include specific free tier or trial duration parameters.
-   - For open-source repos, include the official star badge (`style=social&color=white`) linking to its stargazers page.
+   - For open-source repos, include the official Stars_Badge (`style=social&color=white`) linking to its stargazers page.
 4. 🚀 Commit your improvements (`git commit -m "Add New Open-Source CDP"`).
 5. 📬 Open a **Pull Request** detailing your additions.
 
